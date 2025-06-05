@@ -60,7 +60,7 @@
   _Trang bán hàng có giỏ hàng, thanh toán đơn giản, phân quyền._
 
 - 🔍 [Web bán hàng MVC với Flask](https://github.com/HitDrama/Web-flask-mycode)  
-  _Dự án nhỏ tập trung vào routing, render template và ORM._
+  _Trang bán hàng có giỏ hàng, thanh toán đơn giản, phân quyền._
 
 </details>
 
@@ -71,6 +71,9 @@
 
 - 🎤 [App quản lý quán Karaoke (Java Swing)](https://github.com/HitDrama/App_KaraokeChill)  
   _Quản lý phòng hát, hóa đơn, nhân viên với giao diện desktop._
+
+- 🌱 [Web kiểm tra khảo sát bảo vệ môi trường EcoAware](https://github.com/HitDrama/ECOAWARE)  
+  _Một trang web khảo sát sinh viên về vấn để bảo vệ môi trường viết bằng ASP.Net._
 
 </details>
 
