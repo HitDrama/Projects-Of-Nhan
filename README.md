@@ -14,11 +14,23 @@
 - 🍎 [Phát hiện bệnh trên cây táo (MobileNetV2)](https://github.com/HitDrama/Apple-Disease-MobileNetV2-)  
   _Phân loại bệnh cây bằng transfer learning trên mô hình nhẹ phù hợp cho mobile._
 
-- 🧠 [Sinh ảnh thời trang trắng đen bằng GAN](https://github.com/ten-ban/link-du-an)  
-  _GAN tự sinh ảnh thời trang từ ảnh trắng đen thành ảnh có màu._
 
 - 🔍 [Tìm kiếm ảnh tương tự với ResNet50](https://github.com/HitDrama/AI-Image-Classifier-with-ResNet50)  
   _Trích đặc trưng ảnh và tìm ảnh gần giống trong bộ dữ liệu lớn._
+
+</details>
+
+---
+
+<details>
+  <summary>🤖 <strong>Generative AI ( AI Tạo sinh)</strong></summary>
+
+
+
+- 🧠 [Sinh ảnh thời trang trắng đen bằng GAN](https://github.com/ten-ban/link-du-an)  
+  _GAN tự sinh ảnh thời trang từ ảnh trắng đen thành ảnh có màu._
+
+
 
 </details>
 
