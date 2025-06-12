@@ -26,11 +26,11 @@
   <summary>🤖 <strong>Generative AI ( AI Tạo sinh)</strong></summary>
 
 
+- 🧠 [Sinh ảnh thời trang trắng đen bằng GAN](https://github.com/HitDrama/DCgan-Fashionmnist-Generator)  
+  _GAN tự sinh ảnh thời trang từ ảnh trắng đen ._
 
-- 🧠 [Sinh ảnh thời trang trắng đen bằng GAN](https://github.com/ten-ban/link-du-an)  
-  _GAN tự sinh ảnh thời trang từ ảnh trắng đen thành ảnh có màu._
-
-
+- 🧠 [Sinh ảnh màu bằng DCGAN](https://github.com/HitDrama/DCGAN-with-CIFAR-10-Generating-Colorful-Images-from-Noise)  
+  _GAN tự sinh ảnh màu với dataset CIFAR10 ._
 
 </details>
 
