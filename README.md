@@ -18,6 +18,9 @@
 - 🔍 [Tìm kiếm ảnh tương tự với ResNet50](https://github.com/HitDrama/AI-Image-Classifier-with-ResNet50)  
   _Trích đặc trưng ảnh và tìm ảnh gần giống trong bộ dữ liệu lớn._
 
+- 🔤 [Dự án dịch thật với finetune model mBART-Large-50 ](https://github.com/HitDrama/EN-VI-Translation-mBART-Large-50-Opus100)  
+  _Dự án được tinh chỉnh dựa trên model mBART-Large-50 của Facebook ._
+
 </details>
 
 ---
