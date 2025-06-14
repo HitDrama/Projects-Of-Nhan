@@ -1,7 +1,13 @@
 # 💼 **My Project Portfolio**
 
-👋 Xin chào! Đây là danh sách các dự án nổi bật mà tôi đã thực hiện, được phân loại theo từng mảng kỹ thuật để bạn dễ theo dõi.  
-➡️ Mỗi liên kết là một repo thực tế trên GitHub có thể tham khảo mã nguồn, kiến trúc và demo.
+
+👋 Xin chào! Mình là một lập trình viên đam mê phát triển sản phẩm thực tế, đặc biệt trong các lĩnh vực như AI, Deep Learning, Web Development và ứng dụng Python.
+
+📌 Dưới đây là tuyển tập các dự án nổi bật mà mình đã thực hiện – từ học thuật đến thực tiễn, từ backend đến frontend, từ AI đến ứng dụng desktop.  
+➡️ Mỗi liên kết là một GitHub repo thực tế, nơi bạn có thể xem chi tiết mã nguồn, kiến trúc và video/image demo .
+
+✨ Hy vọng bạn sẽ tìm thấy điều thú vị hoặc hữu ích trong hành trình của mình!
+
 
 ---
 
