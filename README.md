@@ -59,16 +59,17 @@
 ---
 
 <details>
-  <summary>🌐 <strong>Web Development</strong></summary>
+  <summary>Ⓜ️🅔🅡🅝 <strong>Web Development (JS)</strong></summary>
+  
+- 📚 [BachHoaIT-Clone-MERN](https://github.com/HitDrama/BachHoaIT-Clone-MERN)
+  _Dự án phát triển ứng dụng thương mại điện tử "Bách Hóa IT" sử dụng MERN Stack._
 
-- 📚 [Dashboard quản lý học viên (Node.js + Express)](https://github.com/ten-ban/link-du-an)  
-  _Hệ thống quản lý học viên với phân quyền, RESTful API._
+- 📚 [Online_Book_Application_Coursera](https://github.com/HitDrama/Online_Book_Application_Coursera)
+  _Dự án cuối khóa học "Developing Back-End Apps with Node.js and Express" của IBM. Phát triển ứng dụng sách trực tuyến._
 
-- 🛒 [Website bán hàng (React + Firebase)](https://github.com/ten-ban/link-du-an)  
-  _Frontend hiện đại kết nối Realtime Database và Auth của Firebase._
+- 📚 [IBM-Developing-Front-End-Apps-With-React](https://github.com/HitDrama/IBM-Developing-Front-End-Apps-With-React)
+  _Dự án cuối khóa học "IBM-Developing-Front-End-Apps-With-React". Phát triển ứng dụng giao diện người dùng với React._
 
-- 💬 [Blog Markdown cá nhân](https://github.com/ten-ban/link-du-an)  
-  _Tự động tạo blog từ file `.md`, hỗ trợ highlight code và responsive layout._
 
 </details>
 
