@@ -27,6 +27,11 @@
 - 🔤 [Dự án dịch thật với finetune model mBART-Large-50 ](https://github.com/HitDrama/EN-VI-Translation-mBART-Large-50-Opus100)  
   _Dự án được tinh chỉnh dựa trên model mBART-Large-50 của Facebook ._
 
+- ⚡ [Dự đoán tiêu thụ năng lượng bằng LSTM](https://github.com/HitDrama/Energy-Prediction-with-LSTM)  
+  _Dự báo mức tiêu thụ điện năng theo thời gian với mạng nơ-ron hồi tiếp LSTM._
+
+
+
 </details>
 
 ---
