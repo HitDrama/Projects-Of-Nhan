@@ -1,4 +1,7 @@
-# 💼 **My Project Portfolio**
+<h1 align="center">💼 <strong>My Project Portfolio</strong></h1>
+<div style="text-align: center;">
+    <img src="https://github.com/HitDrama/Projects-Of-Nhan/blob/main/Witness%20the%20poster!%20Forged%20in%20exactly%203%20hours%20of%20intense%20creativity.gif" alt="Animated Background" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
 
 
 👋 Xin chào! Mình là một lập trình viên đam mê phát triển sản phẩm thực tế, đặc biệt trong các lĩnh vực như AI, Deep Learning, Web Development và ứng dụng Python.
@@ -40,11 +43,23 @@
   <summary>🤖 <strong>Generative AI ( AI Tạo sinh)</strong></summary>
 
 
-- 🧠 [Sinh ảnh thời trang trắng đen bằng GAN](https://github.com/HitDrama/DCgan-Fashionmnist-Generator)  
+-  🧠 [Sinh ảnh thời trang trắng đen bằng GAN](https://github.com/HitDrama/DCgan-Fashionmnist-Generator)  
   _GAN tự sinh ảnh thời trang từ ảnh trắng đen ._
 
-- 🧠 [Sinh ảnh màu bằng DCGAN](https://github.com/HitDrama/DCGAN-with-CIFAR-10-Generating-Colorful-Images-from-Noise)  
+-  🧠 [Sinh ảnh màu bằng DCGAN](https://github.com/HitDrama/DCGAN-with-CIFAR-10-Generating-Colorful-Images-from-Noise)  
   _GAN tự sinh ảnh màu với dataset CIFAR10 ._
+
+-  💬 [chatbot-finetune-with-mistral-7b](https://github.com/HitDrama/chatbot-finetune-with-mistral-7b)</br>
+  _Mô hình Mistral-7B (phát triển bởi Mistral AI) đã fine-tune cho chatbot, huấn luyện trên dataset tatsu-lab/alpaca (train[:500]) ._
+ 
+-  💬 [Fine-Tuned-Chatbot-with-Qwen2-1.5B](https://github.com/HitDrama/Fine-Tuned-Chatbot-with-Qwen2-1.5B)</br>
+  _A conversational AI chatbot fine-tuned from Qwen2-1.5B (by Qwen Team, Alibaba Cloud) using the tatsu-lab/alpaca dataset. Designed for natural, human-like dialogue ._
+
+-  🤖 [AI-Chatbot-Flask](https://github.com/HitDrama/AI-Chatbot-Flask)</br>
+  _A smart chatbot web app built with Flask, using Google Gemini API for real-time responses ._
+
+-  ✍️ [seo-gemini-chatbot](https://github.com/HitDrama/seo-gemini-chatbot)</br>
+  _Chatbot sinh bài viết SEO tự động sử dụng Gemini API 2.0-fast. Đơn giản, nhanh chóng, dễ dùng ._
 
 </details>
 
