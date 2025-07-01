@@ -33,7 +33,8 @@
 - ⚡ [Dự đoán tiêu thụ năng lượng bằng LSTM](https://github.com/HitDrama/Energy-Prediction-with-LSTM)  
   _Dự báo mức tiêu thụ điện năng theo thời gian với mạng nơ-ron hồi tiếp LSTM._
 
-
+- 🗑️ [Dự án phân loạt rác 🗑️ với kiến trúc MobileNetV2](https://github.com/HitDrama/AI.TrashSort-MobileNetV2)</br>
+  _Một hệ thống phân loại rác bằng AI sử dụng mô hình MobileNetV2 để tự động xác định và phân loại các loại chất thải khác nhau.._ 
 
 </details>
 
