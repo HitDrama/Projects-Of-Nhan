@@ -75,6 +75,8 @@
 - 📦 [Đếm xe ra/vào bằng YOLO](https://github.com/HitDrama/YoloVision-CarTrack)  
   _Kết hợp YOLO và line-crossing logic để đếm lượng xe trong video theo thời gian thực._
 
+- 📦 [Xác thực sinh trắc học](https://github.com/HitDrama/CompuVision-Face-ID-with-DeepFace-FaceMesh)  
+  _Xác thực sinh trắc học với DeepFace và Google FaceMesh._
 </details>
 
 ---
